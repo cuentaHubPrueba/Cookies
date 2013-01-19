@@ -1,6 +1,6 @@
 <html>
 	<head>
-	<title>Cookies</title>
+	<title>Cookies ok</title>
 	</head>
 <body 
 <?php if (isset($_COOKIE['color'])) echo " bgcolor=\"$_COOKIE[color]\"" ?>
